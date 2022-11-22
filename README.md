@@ -3,7 +3,7 @@ I am a Backend Software Engineer 💻
 
 🔭 I’m currently working on backend development projects.
 
-🌱 I’m currently learning Go.
+🌱 I’m currently learning HLD.
 
 👯 I’m willing to collaborate on building communitites, and research projects.
 
