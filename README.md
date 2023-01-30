@@ -1,5 +1,5 @@
 Hi, I'm Rishav Kumar 👋
-I am a Backend Software Engineer 💻
+I am a Software Engineer at Avaya 💻
 
 🔭 I’m currently working on backend development projects.
 
